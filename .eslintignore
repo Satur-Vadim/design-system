@@ -1,0 +1,10 @@
+/build
+/node_modules
+/.next
+__mocks__
+/dist
+/storybook-static
+/src/index.ts
+/src/components/index.ts
+rollup.config.js
+babel.config.js
